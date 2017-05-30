@@ -1,0 +1,15 @@
+"F:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"F:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armjlink.dll" 
+
+"F:\Freescale\Debug\2016_07_14\Prj\IAR\FX15_Release\Exe\fire_Kinetis.out" 
+
+--plugin "F:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "F:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\Freescale\Kxx.dmac" 
+
+--flash_loader "F:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\flashloader\Freescale\FlashK60Fxxx128K.board" 
+
+
+
+
